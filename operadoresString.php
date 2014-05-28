@@ -3,7 +3,7 @@
 <meta charset = "utf-8"/>
 <head>
 	<title>Operadores de String en PHP</title>
-</head>
+</head>fdsadfdsaf
 <body>
 <?php
 
