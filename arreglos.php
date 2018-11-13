@@ -11,7 +11,7 @@ $arregloIndex = array(55, 23, 'hola', TRUE); //Se declara un arreglo indexado co
 echo $arregloIndex[0] . "<br>"; //Mostrando el valor de la posición 0 en el array
 
 echo $arregloIndex[1] . "<br>"; //Mostrando el valor de la posición 1 en el array
-
+//OK
 echo $arregloIndex[2] . "<br>"; //Mostrando el valor de la posición 2 en el array
 
 echo $arregloIndex[3] . "<br>"; //Mostrando el valor de la posición 3 en el array
